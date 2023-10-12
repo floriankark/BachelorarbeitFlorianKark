@@ -1,0 +1,13 @@
+datasets
+emoji
+jsonlines
+nltk
+numpy
+pandas
+Pillow
+scikit-learn
+pytorch
+torchvision
+tqdm
+transformers
+wandb
